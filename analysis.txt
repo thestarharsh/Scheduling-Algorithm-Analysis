@@ -1,0 +1,108 @@
+Scheduling Algorithm: First Come First Serve (FCFS) Scheduling
+Average Waiting Time: 0.0
+Average Turnaround Time: 1.0
+CPU Utilization: 1.0%
+Throughput: 1.0
+
+Scheduling Algorithm: Shortest Job First (SJF) Scheduling
+Average Waiting Time: 0.0
+Average Turnaround Time: 1.0
+CPU Utilization: 1.0%
+Throughput: 1.0
+
+Scheduling Algorithm: Priority Scheduling
+Average Waiting Time: 0.0
+Average Turnaround Time: 1.0
+CPU Utilization: 1.0%
+Throughput: 1.0
+
+Scheduling Algorithm: First Come First Serve (FCFS) Scheduling
+Average Waiting Time: 55.9
+Average Turnaround Time: 65.7
+CPU Utilization: 0.5263157894736842%
+Throughput: 0.5263157894736842
+
+Scheduling Algorithm: Shortest Job First (SJF) Scheduling
+Average Waiting Time: 49.4
+Average Turnaround Time: 59.2
+CPU Utilization: 0.5263157894736842%
+Throughput: 0.5263157894736842
+
+Scheduling Algorithm: Priority Scheduling
+Average Waiting Time: 49.4
+Average Turnaround Time: 59.2
+CPU Utilization: 0.5263157894736842%
+Throughput: 0.5263157894736842
+
+Scheduling Algorithm: First Come First Serve (FCFS) Scheduling
+Average Waiting Time: 561.72
+Average Turnaround Time: 572.68
+CPU Utilization: 9.090909090909092%
+Throughput: 9.090909090909092
+
+Scheduling Algorithm: Shortest Job First (SJF) Scheduling
+Average Waiting Time: 531.09
+Average Turnaround Time: 542.05
+CPU Utilization: 9.090909090909092%
+Throughput: 9.090909090909092
+
+Scheduling Algorithm: Priority Scheduling
+Average Waiting Time: 531.09
+Average Turnaround Time: 542.05
+CPU Utilization: 9.090909090909092%
+Throughput: 9.090909090909092
+
+Scheduling Algorithm: First Come First Serve (FCFS) Scheduling
+Average Waiting Time: 5495.365
+Average Turnaround Time: 5506.167
+CPU Utilization: 90.9090909090909%
+Throughput: 90.9090909090909
+
+Scheduling Algorithm: Shortest Job First (SJF) Scheduling
+Average Waiting Time: 3481.58
+Average Turnaround Time: 3492.382
+CPU Utilization: 90.9090909090909%
+Throughput: 90.9090909090909
+
+Scheduling Algorithm: Priority Scheduling
+Average Waiting Time: 3161.281
+Average Turnaround Time: 3172.083
+CPU Utilization: 90.9090909090909%
+Throughput: 90.9090909090909
+
+Scheduling Algorithm: First Come First Serve (FCFS) Scheduling
+Average Waiting Time: 52680.6774
+Average Turnaround Time: 52691.1946
+CPU Utilization: 2000.0%
+Throughput: 2000.0
+
+Scheduling Algorithm: Shortest Job First (SJF) Scheduling
+Average Waiting Time: 35856.7936
+Average Turnaround Time: 35867.3108
+CPU Utilization: 2000.0%
+Throughput: 2000.0
+
+Scheduling Algorithm: Priority Scheduling
+Average Waiting Time: 32132.3783
+Average Turnaround Time: 32142.8955
+CPU Utilization: 2000.0%
+Throughput: 2000.0
+
+Scheduling Algorithm: First Come First Serve (FCFS) Scheduling
+Average Waiting Time: 526645.58067
+Average Turnaround Time: 526656.11167
+CPU Utilization: 20000.0%
+Throughput: 20000.0
+
+Scheduling Algorithm: Shortest Job First (SJF) Scheduling
+Average Waiting Time: 360238.0836
+Average Turnaround Time: 360248.6146
+CPU Utilization: 20000.0%
+Throughput: 20000.0
+
+Scheduling Algorithm: Priority Scheduling
+Average Waiting Time: 324748.46254
+Average Turnaround Time: 324758.99354
+CPU Utilization: 20000.0%
+Throughput: 20000.0
+
